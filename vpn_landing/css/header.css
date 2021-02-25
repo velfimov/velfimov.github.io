@@ -12,7 +12,7 @@
 }
 
 .img__logo {
-    background-image: url('/img/logo.svg');
+    background-image: url('../img/logo.svg');
     background-repeat: no-repeat;
     background-position: center center;
     height: 37px;

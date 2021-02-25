@@ -13,7 +13,7 @@
     padding: 95px 0 35px 0;
 }
 .plans_wrapper__img{
-    background-image: url('/img/box.png');
+    background-image: url('../img/box.png');
     background-size: contain;
     background-position: center center;
 }

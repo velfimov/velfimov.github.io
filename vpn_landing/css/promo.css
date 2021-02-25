@@ -6,7 +6,7 @@
     justify-content: space-between;
 }
 .promo_img{
-    background-image: url('/img/man_on_laptop.png');
+    background-image: url('../img/man_on_laptop.png');
     width: 612px;
     height: 382px;
 }
